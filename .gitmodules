@@ -1,0 +1,12 @@
+[submodule "MFE-Instalacoes"]
+	path = MFE-Instalacoes
+	url = git@github.com:RSPBlue/MFE-Instalacoes.git
+[submodule "MFE-Menu"]
+	path = MFE-Menu
+	url = git@github.com:RSPBlue/MFE-Menu.git
+[submodule "MFE-Public"]
+	path = MFE-Public
+	url = git@github.com:RSPBlue/MFE-Public.git
+[submodule "MFE-Shared"]
+	path = MFE-Shared
+	url = git@github.com:RSPBlue/MFE-Shared.git
