@@ -13,3 +13,5 @@
 [submodule "MFE-Topbar"]
 	path = MFE-Topbar
 	url = git@github.com:RSPBlue/MFE-Topbar.git
+[submodule "MFE-Shell"]
+	url = git@github.com:RSPBlue/MFE-Shell.git
