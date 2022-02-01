@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Instalacoes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Menu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Shared" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFE-Topbar" vcs="Git" />
+  </component>
+</project>
