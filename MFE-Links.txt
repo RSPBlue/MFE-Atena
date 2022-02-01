@@ -1,13 +1,13 @@
-MFE-Shell   
-elb-rsp-cruzeiro-front-base 	
-tgip-rsp-cruzeiro-front-base 
+MFE-Shell
+elb-rsp-cruzeiro-front-base
+tgip-rsp-cruzeiro-front-base
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-front-base/8cf31dce2bfb0767
 cruzeiro-front-base
 181389504542.dkr.ecr.us-east-1.amazonaws.com/cruzeiro-front-base
 elb-rsp-cruzeiro-front-base-1713015825.us-east-1.elb.amazonaws.com
 
 
-MFE-Instalacoes   
+MFE-Instalacoes
 elb-rsp-cruzeiro-fr-instalacoes
 tgip-rsp-cruzeiro-fr-instalacoes
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-fr-instalacoes/e8b5276d780ce644
@@ -16,16 +16,16 @@ ecr-rsp-cruzeiro-fr-instalacoes
 elb-rsp-cruzeiro-fr-instalacoes-657526509.us-east-1.elb.amazonaws.com
 
 
-MFE-Shared 
-elb-rsp-cruzeiro-fr-shared 
+MFE-Shared
+elb-rsp-cruzeiro-fr-shared
 tgip-rsp-cruzeiro-fr-shared
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-fr-shared/8ce77895855e2221
 ecr-rsp-cruzeiro-fr-shared
 181389504542.dkr.ecr.us-east-1.amazonaws.com/ecr-rsp-cruzeiro-fr-shared
 elb-rsp-cruzeiro-fr-shared-2103751855.us-east-1.elb.amazonaws.com
 
-MFE-Menu 
-elb-rsp-cruzeiro-fr-menu	
+MFE-Menu
+elb-rsp-cruzeiro-fr-menu
 tgip-rsp-cruzeiro-fr-menu
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-fr-menu/4818f65b3e615c86
 ecr-rsp-cruzeiro-fr-menu
@@ -33,7 +33,7 @@ ecr-rsp-cruzeiro-fr-menu
 elb-rsp-cruzeiro-fr-menu-2097737490.us-east-1.elb.amazonaws.com
 
 
-MFE-Topbar 
+MFE-Topbar
 elb-rsp-cruzeiro-fr-topbar
 tgip-rsp-cruzeiro-fr-topbar
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-fr-topbar/0f6d18f808d88a2a
@@ -43,7 +43,7 @@ elb-rsp-cruzeiro-fr-topbar-1998661546.us-east-1.elb.amazonaws.com
 
 
 
-MFE-Public 
+MFE-Public
 elb-rsp-cruzeiro-fr-public
 tgip-rsp-cruzeiro-fr-public
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-fr-public/2b848e110e799012
@@ -52,10 +52,7 @@ ecr-rsp-cruzeiro-fr-public
 elb-rsp-cruzeiro-fr-public-212825784.us-east-1.elb.amazonaws.com
 
 
-
-
---------------------------------------------------------------------------------------------------------------
-backend  
+backend
 elb-rsp-cruzeiro-backend-base
 tgip-rsp-cruzeiro-backend-base
 arn:aws:elasticloadbalancing:us-east-1:181389504542:targetgroup/tgip-rsp-cruzeiro-backend-base/817952292901ba32
