@@ -10,3 +10,6 @@
 [submodule "MFE-Shared"]
 	path = MFE-Shared
 	url = git@github.com:RSPBlue/MFE-Shared.git
+[submodule "MFE-Topbar"]
+	path = MFE-Topbar
+	url = git@github.com:RSPBlue/MFE-Topbar.git
